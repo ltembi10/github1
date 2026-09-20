@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+This project demonstrates a professional Git and GitHub development workflow.
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
